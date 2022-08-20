@@ -71,5 +71,9 @@ body{
         .digit{
             font-size: 42px;
         }
+        .btn{
+            width: 31%;
+            padding: 12px 25px;
+        }
     }
 }
